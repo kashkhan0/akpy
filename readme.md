@@ -2,6 +2,8 @@
 
 
 ```
+
+# install ubuntu 17.04
 # install opencv https://raw.githubusercontent.com/milq/milq/master/scripts/bash/install-opencv.sh
 
 # go to github repo
@@ -15,10 +17,10 @@ git clone https://github.com/kashkhan0/akpy.git
 
 git checkout r2
 
-
-#
+# use miniconda or venv
 pip install requests
 pip install arrow
+pip install pillow
 
 # put required lon lat coordinates in lonlat.txt
 
@@ -45,5 +47,8 @@ python ocgsave20171117.py
 
 # continued in part II
 
+# generate downsampled images using makesmall.py 
+
+# when reach tjos stage contact me
 
 ```
