@@ -96,15 +96,6 @@ def  getpos(seektime, timelist):
       
   return ll1
 
-
-
-# alist = ['aocgs2015-10-19T093335.txt','aocgs2015-10-25T125102.txt','aocgs2015-11-14T092524.txt','aocgs2015-11-21T093113.txt','aocgs2015-11-11T101514.txt','aocgs2015-11-18T102220.txt','aocgs2015-11-25T093014.txt']
-alist = ['aocgs20150104.txt']
-alist = ['aocgs20150124.txt']
-alist = ['aocgs20151121.txt']
-alist = ['aocgs20150124.txt']
-alist = ['aocgs20170312.txt']
-fdbfn = 'fdb20170312-33.txt'
 alist = ['aocgs20171117.txt']
 fdbfn = 'outfdb20171117swlist.txt'
 # alist = ['aocgs20151025.txt']
